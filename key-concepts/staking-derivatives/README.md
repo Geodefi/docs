@@ -1,6 +1,6 @@
 # 🪙 Staking Derivatives
 
-#### Simple.
+### Simple.
 
 When a user stakes their collateral, they are given a corresponding amount of a derivative.
 
