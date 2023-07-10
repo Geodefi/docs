@@ -6,11 +6,7 @@ Geode Finance is currently allowing only the Permissioned Node Operators to take
 [onboarding-new-operators.md](../../operator-marketplace/onboarding-new-operators.md)
 {% endcontent-ref %}
 
-## Have you been Onboarded?
-
-[**Here is the list of current Node Operators and their IDs.**](https://docs.google.com/spreadsheets/d/1m1TEsagjV8ktGVrlq9C7HcTCIVf5khJX97gXe6OHfq4/edit?usp=sharing)
-
-## No?
+## Have you been Onboarded? No?
 
 #### We only need your Goerli Address.&#x20;
 
