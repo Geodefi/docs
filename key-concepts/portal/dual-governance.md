@@ -48,18 +48,7 @@ All TYPEs are reserved as `ID_TYPE` within  [`globals.sol`](../../developers/liv
 
 #### **There can be more TYPE reservations in the future.**
 
-| ID\_TYPE | CONTROLLER                                                              |
-| -------- | ----------------------------------------------------------------------- |
-| 0        | <mark style="background-color:red;">NONE -unused</mark>                 |
-| 1        | <mark style="color:green;">new senate address</mark>                    |
-| 2        | <mark style="color:blue;">new implementation contract for Portal</mark> |
-| 3        | <mark style="background-color:red;">GAP - unused</mark>                 |
-| 4        | <mark style="color:green;">Controller of a Operator</mark>              |
-| 5        | <mark style="color:purple;">Controller of a Pool</mark>                 |
-| 21       | <mark style="color:blue;">Module: Withdrawal Contracts</mark>           |
-| 31       | <mark style="color:blue;">Module: gETH interfaces</mark>                |
-| 41       | <mark style="color:blue;">Module: Liquidity Pool</mark>                 |
-| 42       | <mark style="color:blue;">Module: Liquidity Pool Token</mark>           |
+<table><thead><tr><th width="120">ID_TYPE</th><th>CONTROLLER</th></tr></thead><tbody><tr><td>0</td><td><mark style="background-color:red;">NONE -unused</mark></td></tr><tr><td>1</td><td><mark style="color:green;">new senate address</mark></td></tr><tr><td>2</td><td><mark style="color:blue;">new implementation contract for Portal</mark></td></tr><tr><td>3</td><td><mark style="background-color:red;">GAP - unused</mark></td></tr><tr><td>4</td><td><mark style="color:green;">Controller of a Operator</mark></td></tr><tr><td>5</td><td><mark style="color:purple;">Controller of a Pool</mark></td></tr><tr><td>21</td><td><mark style="color:blue;">Module: Withdrawal Contracts</mark></td></tr><tr><td>31</td><td><mark style="color:blue;">Module: gETH interfaces</mark></td></tr><tr><td>41</td><td><mark style="color:blue;">Module: Liquidity Pool</mark></td></tr><tr><td>42</td><td><mark style="color:blue;">Module: Liquidity Pool Token</mark></td></tr></tbody></table>
 
 ### Governance
 

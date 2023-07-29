@@ -58,7 +58,11 @@ Geode allows any party to manage its own risk profile.
 
 **Craft your own solution instead.**
 
+<div align="center">
+
 <figure><img src=".gitbook/assets/compare.png" alt=""><figcaption><p>Isolated risk.</p></figcaption></figure>
+
+</div>
 
 * Manage your risk profile by simply reaching out to Solo/Industrial Node Operators directly via our marketplace
 * Have complete ownership of your staking pool, control the Withdrawal Contract and have total ownership over your funds
