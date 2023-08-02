@@ -4,11 +4,9 @@ description: Security first!
 
 # Audits
 
-{% hint style="info" %}
-This page only includes the audits for the Portal-Eth implementation.
-{% endhint %}
+This page currently includes the audits for the Portal-Eth implementation.
 
-{% file src="../.gitbook/assets/2022-10-Diligence-audit-v1.pdf" %}
+{% file src="../.gitbook/assets/2022-10-Diligence-Audit-Report-v1.pdf" %}
 This audit is conducted by [Consensys Diligence](https://consensys.io/diligence/).
 {% endfile %}
 
@@ -20,10 +18,10 @@ This is a <mark style="color:blue;">response to the above audit</mark> prepared 
 This is an <mark style="color:blue;">internal audit</mark> conducted by Crash Bandicoot.
 {% endfile %}
 
-{% file src="../.gitbook/assets/2023-05-Diligence-audit-v2.pdf" %}
+{% file src="../.gitbook/assets/2023-05-Diligence-Audit-Report-v2.pdf" %}
 This is the second audit conducted by [Consensys Diligence](https://consensys.io/diligence/).
 {% endfile %}
 
-{% file src="../.gitbook/assets/2023-07-Shieldify-Audit-Report.pdf.pdf" %}
+{% file src="../.gitbook/assets/2023-07-Shieldify-Audit-Report.pdf" %}
 This audit is conducted by [Shieldify](https://shieldify.org).
 {% endfile %}
