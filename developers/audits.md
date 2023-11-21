@@ -4,7 +4,9 @@ description: Security first!
 
 # Audits
 
-This page currently includes the audits for the Portal-Eth implementation.
+This page currently includes the audits for the Portal-Eth implementation and our Withdrawal contract.
+
+**Portal-Eth**
 
 {% file src="../.gitbook/assets/2022-10-Diligence-Audit-Report-v1.pdf" %}
 This audit is conducted by [Consensys Diligence](https://consensys.io/diligence/).
@@ -24,4 +26,10 @@ This is the second audit conducted by [Consensys Diligence](https://consensys.io
 
 {% file src="../.gitbook/assets/2023-07-Shieldify-Audit-Report.pdf" %}
 This audit is conducted by [Shieldify](https://shieldify.org).
+{% endfile %}
+
+**Withdrawal Contract**
+
+{% file src="../.gitbook/assets/2023-10-Diligence-Audit-Report-Withdrawal-v1.pdf" %}
+This audit is conducted by[ Consensys Diligence](https://consensys.io/diligence/).
 {% endfile %}
