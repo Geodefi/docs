@@ -8,7 +8,7 @@ Node Operators can set a fee up to 10% for their services.
 Contrary to other staking pools, Operators collect their fee according to the performance of their validators; encouraging them to be more profitable.
 {% endhint %}
 
-Any pool can work with any Node Operator, w_ith minimal disturbance_. However, the pool controllers should consider some parameters, such as:
+Any pool can work with any Node Operator, &#x77;_&#x69;th minimal disturbance_. However, the pool controllers should consider some parameters, such as:
 
 * Fee
 * Validator Period

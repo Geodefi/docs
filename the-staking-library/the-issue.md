@@ -26,7 +26,7 @@ A Liquid Staking Derivative (LSD) can grow fast in an unhealthy, speculative env
 
 Because, idle assets spread better than derivatives...
 
-**We understood that the Intermediary Staking Tokens (ERC20s) that are created by service providers, will not continuously provide better, unprecedented yields **<mark style="color:blue;">**compared to the staking rewards.**</mark>&#x20;
+**We understood that the Intermediary Staking Tokens (ERC20s) that are created by service providers, will not continuously provide better, unprecedented yields&#x20;**<mark style="color:blue;">**compared to the staking rewards.**</mark>&#x20;
 
 This achievement requires an environment where there is a demand for the secondary asset. This, requires a monopoly, which is not healthy for the ecosystem.
 

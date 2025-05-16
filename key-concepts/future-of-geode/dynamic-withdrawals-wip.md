@@ -14,7 +14,7 @@ Utilizing this feature will require a **Bound Liquidity Pool**.
 
 ## **Traditional Approach to Withdrawals**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **The traditional Staking process establishes 3 states with Staking/Unstaking functionalities from the perspective of the Staking Pool:**&#x20;
 
@@ -28,7 +28,7 @@ Alternatively, there can be a withdrawal mechanism that requires a waiting perio
 
 ## Dynamic Withdrawals
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Dynamic Withdrawals can be summarized as a decentralized stable-price liquidity pool designed to allocate any amount of requests instantly. When any of the funds are in the Withdrawn or Liquid State, withdrawal is finalized with a buy-back & burn, which **heals the price as a result**.&#x20;
 
